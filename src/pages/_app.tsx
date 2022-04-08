@@ -28,8 +28,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <Component {...pageProps} />
         <footer>
           <p>
-            Built and hosted with{" "}
-            <a href="https://aws.amazon.com/cdk/">AWS CDK</a> by{" "}
+            Built and hosted with <a href="https://aws.amazon.com/">AWS</a> by{" "}
             <a href="https://twitter.com/GroovierHen">Talha</a>
           </p>
         </footer>
